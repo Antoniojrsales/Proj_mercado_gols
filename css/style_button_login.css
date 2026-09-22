@@ -1,0 +1,23 @@
+/* --- ESTILO DO BOTÃO DE SUBMIT --- */
+.stFormSubmitButton > button {
+    background-color: #10B981 !important;
+    color: white !important;
+    border-radius: 5px;
+    border: none;
+    height: auto;
+    padding: 0.5em 1em;
+    transition: all 0.3s ease; /* Adiciona uma transição suave para o hover */
+}
+
+/* Efeito de hover (passar o mouse) */
+.stFormSubmitButton > button:hover {
+    background-color: #059669 !important;
+    color: white !important;
+    transform: translateY(-1px); /* Pequeno efeito de elevação */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave ao passar o mouse */
+}
+
+/* Efeito de active (clique) */
+.stFormSubmitButton > button:active {
+    transform: translateY(0);
+}
