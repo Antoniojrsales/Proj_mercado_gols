@@ -1,22 +1,23 @@
+import hashlib
+import hmac
 import streamlit as st
 
+
 def authenticate_user(username: str, password_input: str) -> bool:
-  """Valida se o usuário existe e se a senha confere com o secrets.toml."""
+  """Valida as credenciais comparando o hash SHA-256 com tempo constante (anti-timing attack)."""
+  if not username or not password_input:
+    return False
+
   try:
     users = st.secrets.get("AUTH_USERS", {})
   except Exception:
     return False
 
-  # Se o usuário não existir no arquivo, rejeita
   if username not in users:
     return False
 
-  # Retorna True se a senha bater, False se for incorreta
-  return str(users[username]) == str(password_input)
-  """Carrega as credenciais em cache."""
-  user = get_user_credentials(username)
-  if user is not None:
-    return user
+  stored_hash = str(users[username]).strip()
+  input_hash = hashlib.sha256(password_input.encode("utf-8")).hexdigest()
 
-  st.error(f"Usuário '{username}' não encontrado.")
-  return None
+  return hmac.compare_digest(input_hash, stored_hash)       
+  

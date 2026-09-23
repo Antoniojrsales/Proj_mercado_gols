@@ -1,8 +1,5 @@
 import streamlit as st
 
-import streamlit as st
-
-
 def check_login(mostrar_sidebar_user: bool = True):
   """Verifica se o usuário está autenticado.
 
@@ -15,8 +12,9 @@ def check_login(mostrar_sidebar_user: bool = True):
     # Botão de redirecionamento ou redirecionamento automático
     col1, col2 = st.columns([1, 2])
     with col1:
-      if st.button('Ir para Login', use_container_width=True):
-        st.switch_page('1_🔑_login.py')
+      if st.button('Ir para Login', use_container_width=True, type="primary"):
+        st.session_state.clear()
+        st.switch_page("1_🗝️_login.py")
 
     st.stop()
 
@@ -25,7 +23,9 @@ def check_login(mostrar_sidebar_user: bool = True):
     usuario_ativo = st.session_state.get('username', 'Usuário')
     with st.sidebar:
       st.markdown(f'👤 Conectado como: **{usuario_ativo}**')
-      if st.button('Sair (Logout)', key='btn_logout', use_container_width=True):
+      if st.button('🚪 Sair da Conta', key='btn_logout', type="primary", use_container_width=True):
         st.session_state['logged_in'] = False
         st.session_state['username'] = None
+        st.session_state.clear()
+        st.switch_page("1_🗝️_login.py")
         st.rerun()
