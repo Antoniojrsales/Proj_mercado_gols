@@ -33,6 +33,18 @@ def sanitize_historical_data(df: pd.DataFrame) -> pd.DataFrame:
 
   df_clean = df.copy()
 
+  # Harmoniza o nome da Liga com a grade diária
+  if "Liga" in df_clean.columns:
+    df_clean["Liga"] = (
+        df_clean["Liga"].astype(str).str.replace("_", " ").str.strip()
+    )
+
+  if "HomeTeam" in df_clean.columns:
+    df_clean["HomeTeam"] = df_clean["HomeTeam"].astype(str).str.strip()
+
+  if "AwayTeam" in df_clean.columns:
+    df_clean["AwayTeam"] = df_clean["AwayTeam"].astype(str).str.strip()
+
   # 1. Tratamento de Datas com ordenação cronológica precisa
   if "Date" in df_clean.columns:
     df_clean["Date"] = pd.to_datetime(
