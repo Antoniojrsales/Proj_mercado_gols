@@ -19,6 +19,16 @@ def sanitize_daily_fixtures(df: pd.DataFrame) -> pd.DataFrame:
     if "AwayTeam" in df_clean.columns:
         df_clean["AwayTeam"] = df_clean["AwayTeam"].astype(str).str.strip()
 
+    # Padronização de Data (garante formato string limpo DD/MM/AAAA ou AAAA-MM-DD)
+    if "Date" in df_clean.columns:
+      # Converte para datetime e formata de forma legível
+      try:
+        df_clean["Date"] = pd.to_datetime(
+            df_clean["Date"], dayfirst=True
+        ).dt.strftime("%d/%m/%Y")
+      except Exception:
+        df_clean["Date"] = df_clean["Date"].astype(str).str.strip()
+
     df_clean['X'] = 'x'
     ordem_colunas = ['Date', 'Time', 'Liga', 'HomeTeam', 'X', 'AwayTeam']
     df_clean = df_clean[ordem_colunas]

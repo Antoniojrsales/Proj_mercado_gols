@@ -1,6 +1,7 @@
 import math
 from typing import Dict, Optional, Tuple
 import pandas as pd
+from datetime import datetime
 
 MERCADO = [
     "Over 0.5 FT",
@@ -71,6 +72,7 @@ def compute_league_stats(
 
 
 def calculate_match_lambdas(
+    data: datetime.date,
     home_team: str,
     away_team: str,
     stats_liga: dict,
@@ -160,13 +162,12 @@ def calc_btts(l_c: float, l_f: float) -> float:
   p_away_scores = 1.0 - poisson_prob(0, l_f)
   return max(0.0, min(1.0, p_home_scores * p_away_scores))
 
-
 # =========================================================
 # ORQUESTRADOR DE ANÁLISE DE CONFRONTO
 # =========================================================
 
-
 def analyze_match_signal(
+    data: datetime.date,
     home_team: str,
     away_team: str,
     mercado: str,
@@ -178,28 +179,28 @@ def analyze_match_signal(
 ) -> Dict:
   """Processa a probabilidade do mercado escolhido, odd justa e status +EV."""
   l_c, l_f, l_total, vol_sot = calculate_match_lambdas(
-      home_team, away_team, stats_liga, media_c, media_f
+      data, home_team, away_team, stats_liga, media_c, media_f
   )
 
   # Roteamento do Mercado
   if mercado == "Over 0.5 FT":
     prob = calc_over_05_ft(l_c, l_f)
-    min_exp_gols = 1.20
+    min_exp_gols = 1.35
   elif mercado == "Over 1.5 FT":
     prob = calc_over_15_ft(l_c, l_f)
-    min_exp_gols = 2.70
+    min_exp_gols = 2.65
   elif mercado == "Over 2.5 FT":
     prob = calc_over_25_ft(l_c, l_f)
-    min_exp_gols = 3.10
+    min_exp_gols = 2.85
   elif mercado == "Over 0.5 HT":
     prob = calc_over_05_ht(l_c, l_f)
-    min_exp_gols = 2.50
+    min_exp_gols = 2.35
   elif mercado in ["BTTS", "BTTS (Ambas Marcam)"]:
     prob = calc_btts(l_c, l_f)
-    min_exp_gols = 2.60
+    min_exp_gols = 2.55
   else:
     prob = calc_over_15_ft(l_c, l_f)
-    min_exp_gols = 2.70
+    min_exp_gols = 2.65
 
   prob_pct = prob * 100.0
   odd_justa = (1.0 / prob) if prob > 0 else 0.0
@@ -225,6 +226,7 @@ def analyze_match_signal(
       "Confronto": f"{home_team} x {away_team}",
       "Mandante": home_team,
       "Visitante": away_team,
+      "Data": data,
       "Prob (%)": round(prob_pct, 1),
       "Odd Justa": round(odd_justa, 2),
       "Odd Casa": odd_mercado if odd_mercado > 0 else "-",

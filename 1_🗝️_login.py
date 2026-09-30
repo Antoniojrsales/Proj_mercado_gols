@@ -27,7 +27,7 @@ with st.sidebar:
             """
         )
 
-st.sidebar.markdown('Desenvolvido por [AntonioJrSales](https://antoniojrsales.github.io/meu_portfolio/)')
+st.sidebar.markdown('Desenvolvido por [AntonioJrSales](https://antoniojrsales.github.io/Proj_PunterSomenteMercadoGols/)')
 
 # ---------------------------------------------------------
 # 🎨 UTILITÁRIOS DE ESTILIZAÇÃO (CSS)

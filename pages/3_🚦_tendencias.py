@@ -14,6 +14,9 @@ st.set_page_config(
     layout="wide"
 )
 
+# 1. Barreira de Segurança
+check_login()
+
 with st.sidebar:
     with st.expander("ℹ️ Sobre o Mercado de Gols", expanded=False):
         st.markdown(
@@ -22,9 +25,9 @@ with st.sidebar:
 
             **Mercados Analisados:**
             * **Over 0.5 FT:** a partir de **90%** (mercado de altíssima frequência)
-            * **Over 1.5 FT:** a partir de **80%** (padrão equilibrado para golos)
+            * **Over 1.5 FT:** a partir de **80%** (padrão equilibrado para gols)
             * **Over 2.5 FT:** a partir de **70%** (jogos com perfil ofensivo aberto)
-            * **Over 0.5 HT:** a partir de **65% a 70%** (foco em golos na 1ª etapa)
+            * **Over 0.5 HT:** a partir de **65% a 70%** (foco em gols na 1ª etapa)
             * **BTTS (Ambos Marcam):** a partir de **60% a 65%** (ambas as equipas marcam)
 
             **Observações:**
@@ -32,8 +35,7 @@ with st.sidebar:
             """
         )
 
-# 1. Barreira de Segurança
-check_login()
+st.sidebar.markdown('Desenvolvido por [AntonioJrSales](https://antoniojrsales.github.io/Proj_PunterSomenteMercadoGols/)')
 
 # ---------------------------------------------------------
 # 📥 CARREGAMENTO E HIGIENIZAÇÃO DE DADOS
@@ -53,6 +55,15 @@ df_jogos = sanitize_daily_fixtures(df_jogos_raw)
 # ---------------------------------------------------------
 with st.sidebar:
     st.markdown("### ⚙️ Filtros Analíticos")
+
+    datas_disponiveis = sorted(df_jogos["Date"].dropna().unique())
+    filtro_datas = st.multiselect(
+        "Datas da Rodada:",
+        options=datas_disponiveis,
+        default=[],  # Vazio significa "Todas as Datas"
+        placeholder="Todas as Datas",
+        help="Selecione um ou mais dias específicos da rodada para filtrar.",
+    )
     
     # Filtro de Liga
     ligas_disponiveis = sorted(df_jogos["Liga"].dropna().unique())
@@ -71,7 +82,7 @@ with st.sidebar:
     # Mapeamento do default sugerido conforme o guia da barra lateral
     sugestao_corte = {
         "Over 0.5 FT": 90,
-        "Over 0.5 HT": 80,
+        "Over 0.5 HT": 65,
         "Over 1.5 FT": 80,
         "Over 2.5 FT": 70,
         "BTTS": 65,
@@ -104,6 +115,10 @@ with st.sidebar:
 # 🧠 PROCESSAMENTO DO MOTOR QUANTITATIVO (OVER 0.5 FT)
 # ---------------------------------------------------------
 df_alvo = df_jogos.copy()
+# Aplica filtro de datas (se o usuário selecionou alguma)
+if filtro_datas:
+  df_alvo = df_alvo[df_alvo["Date"].isin(filtro_datas)]
+
 if filtro_ligas:
     df_alvo = df_alvo[df_alvo["Liga"].isin(filtro_ligas)]
 
@@ -132,6 +147,7 @@ for _, row in df_alvo.iterrows():
 
   # 3. ATENÇÃO: Esta parte DEVE estar alinhada com o 'for', fora do 'if' acima!
   analise = analyze_match_signal(
+      data = filtro_datas,
       home_team=time_casa,
       away_team=time_fora,
       mercado=filtro_mercados,
@@ -142,8 +158,7 @@ for _, row in df_alvo.iterrows():
       odd_mercado=0.0,
   )
 
-  analise["Data"] = row.get("Date", "-")
-  analise["Hora"] = row.get("Time", "-")
+  analise["Data"] = row.get("Date")
   analise["Liga"] = liga_jogo
 
   resultados.append(analise)  # <-- Roda para cada um dos 90 jogos!

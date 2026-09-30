@@ -10,6 +10,9 @@ st.set_page_config(
 
 check_login()
 
+st.sidebar.markdown('Desenvolvido por [AntonioJrSales](https://antoniojrsales.github.io/Proj_PunterSomenteMercadoGols/)')
+
+
 st.title('⚽ Grade de Jogos do Dia')
 st.caption('Visão geral das partidas programadas para a data e segmentação por liga.', unsafe_allow_html=True)
 st.divider()
