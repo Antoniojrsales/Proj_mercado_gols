@@ -1,15 +1,8 @@
 import pandas as pd
 import streamlit as st
 from utils.auth_check import check_login
-from utils.data_loader import (
-    load_daily_fixtures,
-    load_historical_data,
-    load_sot_database,  # <-- 1. Importa a base auditada de remates
-)
-from utils.data_processing import (
-    sanitize_daily_fixtures,
-    sanitize_historical_data,
-)
+from utils.data_loader import load_daily_fixtures, load_historical_data, load_sot_database
+from utils.data_processing import sanitize_daily_fixtures, sanitize_historical_data
 from utils.engine import MERCADO, analyze_match_signal, compute_league_stats
 
 # ---------------------------------------------------------
