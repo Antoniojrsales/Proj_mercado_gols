@@ -705,7 +705,6 @@ EUA_MLS,2026,20/09/2026,Real Salt Lake,Vancouver Whitecaps,0,3,0,0,0,0,3,0,1,1,1
 EUA_MLS,2026,20/09/2026,Portland Timbers,Atlanta Utd,0,1,0,0,0,0,1,0,1,0,0,0,0,USA
 EUA_MLS,2026,21/09/2026,Inter Miami,San Diego FC,2,2,0,0,0,0,4,0,1,1,1,0,1,USA
 EUA_MLS,2026,24/09/2026,Seattle Sounders,Real Salt Lake,2,0,0,0,0,0,2,0,1,1,0,0,0,USA
-EUA_MLS,2026,24/09/2026,Seattle Sounders,Real Salt Lake,2,0,0,0,0,0,2,0,1,1,0,0,0,USA
 EUA_MLS,2026,27/09/2026,Atlanta Utd,New York City,2,2,0,0,0,0,4,0,1,1,1,0,1,USA
 EUA_MLS,2026,27/09/2026,CF Montreal,FC Cincinnati,3,1,0,0,0,0,4,0,1,1,1,0,1,USA
 EUA_MLS,2026,27/09/2026,Charlotte,Chicago Fire,0,1,0,0,0,0,1,0,1,0,0,0,0,USA
@@ -720,6 +719,8 @@ EUA_MLS,2026,27/09/2026,Los Angeles Galaxy,Colorado Rapids,3,2,0,0,0,0,5,0,1,1,1
 EUA_MLS,2026,27/09/2026,San Jose Earthquakes,Portland Timbers,3,1,0,0,0,0,4,0,1,1,1,0,1,USA
 EUA_MLS,2026,27/09/2026,Vancouver Whitecaps,DC United,3,3,0,0,0,0,6,0,1,1,1,0,1,USA
 EUA_MLS,2026,28/09/2026,Columbus Crew,Inter Miami,2,1,0,0,0,0,3,0,1,1,1,0,1,USA
+EUA_MLS,2026,01/10/2026,New York Red Bulls,St. Louis City,0,3,0,0,0,0,3,0,1,1,1,0,0,USA
+EUA_MLS,2026,02/10/2026,Seattle Sounders,Sporting Kansas City,2,1,0,0,0,0,3,0,1,1,1,0,1,USA
 Suecia_Allsvenskan,2026,04/04/2026,Degerfors,Sirius,0,3,0,0,0,0,3,0,1,1,1,0,0,Sweden
 Suecia_Allsvenskan,2026,04/04/2026,Hammarby,Mjallby,3,0,0,0,0,0,3,0,1,1,1,0,0,Sweden
 Suecia_Allsvenskan,2026,05/04/2026,AIK,Halmstad,2,1,0,0,0,0,3,0,1,1,1,0,1,Sweden
@@ -1173,6 +1174,8 @@ Brasil_Serie_A,2026,20/09/2026,Corinthians,Fluminense,1,3,0,0,0,0,4,0,1,1,1,0,1,
 Brasil_Serie_A,2026,20/09/2026,Vitoria,Cruzeiro,1,3,0,0,0,0,4,0,1,1,1,0,1,Brazil
 Brasil_Serie_A,2026,20/09/2026,Flamengo RJ,Bragantino,2,1,0,0,0,0,3,0,1,1,1,0,1,Brazil
 Brasil_Serie_A,2026,20/09/2026,Athletico-PR,Bahia,2,1,0,0,0,0,3,0,1,1,1,0,1,Brazil
+Brasil_Serie_A,2026,03/10/2026,Sao Paulo,Santos,1,2,0,0,0,0,3,0,1,1,1,0,1,Brazil
+Brasil_Serie_A,2026,03/10/2026,Atletico-MG,Bragantino,1,0,0,0,0,0,1,0,1,0,0,0,0,Brazil
 Mexico_LigaMX,2026/2027,17/07/2026,Necaxa,Atlante,2,1,0,0,0,0,3,0,1,1,1,0,1,Mexico
 Mexico_LigaMX,2026/2027,17/07/2026,Club Tijuana,Tigres UANL,3,1,0,0,0,0,4,0,1,1,1,0,1,Mexico
 Mexico_LigaMX,2026/2027,18/07/2026,Atl. San Luis,Cruz Azul,2,3,0,0,0,0,5,0,1,1,1,0,1,Mexico

@@ -25,7 +25,7 @@ headers = {
 }
 
 def baixar_e_salvar_csv(
-    ligas_dict, temporada='2526', arquivo_saida='base_gols_consolidada.csv'
+    ligas_dict, temporada='2627', arquivo_saida='base_gols_consolidada.csv'
 ):
     dfs = []
 
