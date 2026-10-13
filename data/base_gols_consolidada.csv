@@ -49,6 +49,16 @@ Inglaterra_Premier,2627,20/09/2026,Bournemouth,Liverpool,0,1,0,0,2,3,1,0,1,0,0,0
 Inglaterra_Premier,2627,20/09/2026,Leeds,Crystal Palace,0,0,0,0,2,4,0,0,0,0,0,0,0
 Inglaterra_Premier,2627,20/09/2026,Man City,Sunderland,5,3,3,2,6,9,8,5,1,1,1,1,1
 Inglaterra_Premier,2627,20/09/2026,Fulham,Man United,1,1,0,0,6,6,2,0,1,1,0,0,1
+Inglaterra_Premier,2627,10/10/2026,Arsenal,Leeds,2,1,0,0,6,5,3,0,1,1,1,0,1
+Inglaterra_Premier,2627,10/10/2026,Aston Villa,Brentford,2,2,1,1,7,4,4,2,1,1,1,1,1
+Inglaterra_Premier,2627,10/10/2026,Chelsea,Bournemouth,5,1,2,0,6,4,6,2,1,1,1,1,1
+Inglaterra_Premier,2627,10/10/2026,Ipswich,Fulham,2,1,0,0,5,5,3,0,1,1,1,0,1
+Inglaterra_Premier,2627,10/10/2026,Sunderland,Brighton,0,2,0,0,3,4,2,0,1,1,0,0,0
+Inglaterra_Premier,2627,10/10/2026,Man United,Tottenham,1,1,0,0,4,3,2,0,1,1,0,0,1
+Inglaterra_Premier,2627,11/10/2026,Crystal Palace,Nott'm Forest,3,1,2,1,7,6,4,3,1,1,1,1,1
+Inglaterra_Premier,2627,11/10/2026,Hull,Everton,2,2,0,0,5,7,4,0,1,1,1,0,1
+Inglaterra_Premier,2627,11/10/2026,Liverpool,Man City,0,3,0,0,6,4,3,0,1,1,1,0,0
+Inglaterra_Premier,2627,12/10/2026,Coventry,Newcastle,4,1,1,0,6,6,5,1,1,1,1,1,1
 Escocia_Premiership,2627,31/07/2026,Dundee United,Rangers,1,1,1,0,3,6,2,1,1,1,0,1,1
 Escocia_Premiership,2627,01/08/2026,Falkirk,St Mirren,0,2,0,1,1,5,2,1,1,1,0,1,0
 Escocia_Premiership,2627,01/08/2026,Aberdeen,Hearts,2,1,0,1,3,4,3,1,1,1,1,1,1
@@ -91,6 +101,12 @@ Escocia_Premiership,2627,19/09/2026,St Johnstone,Falkirk,1,1,0,0,5,4,2,0,1,1,0,0
 Escocia_Premiership,2627,19/09/2026,St Mirren,Dundee United,0,3,0,3,0,9,3,3,1,1,1,1,0
 Escocia_Premiership,2627,19/09/2026,Kilmarnock,Hearts,1,1,1,0,0,3,2,1,1,1,0,1,1
 Escocia_Premiership,2627,20/09/2026,Celtic,Rangers,0,1,0,1,1,8,1,1,1,0,0,1,0
+Escocia_Premiership,2627,10/10/2026,Dundee United,Hibernian,1,0,1,0,8,4,1,1,1,0,0,1,0
+Escocia_Premiership,2627,10/10/2026,Falkirk,Dundee,1,2,1,0,5,10,3,1,1,1,1,1,1
+Escocia_Premiership,2627,10/10/2026,Hearts,St Mirren,5,0,2,0,6,1,5,2,1,1,1,1,0
+Escocia_Premiership,2627,10/10/2026,Rangers,Kilmarnock,3,1,3,0,4,5,4,3,1,1,1,1,1
+Escocia_Premiership,2627,11/10/2026,Motherwell,Celtic,0,2,0,1,2,15,2,1,1,1,0,1,0
+Escocia_Premiership,2627,11/10/2026,Aberdeen,St Johnstone,0,1,0,1,5,1,1,1,1,0,0,1,0
 Alemanha_Bundesliga,2627,28/08/2026,Bayern Munich,Stuttgart,5,1,1,0,9,4,6,1,1,1,1,1,1
 Alemanha_Bundesliga,2627,29/08/2026,Elversberg,Leverkusen,3,2,2,0,6,4,5,2,1,1,1,1,1
 Alemanha_Bundesliga,2627,29/08/2026,FC Koln,Hoffenheim,3,2,0,1,6,4,5,1,1,1,1,1,1
@@ -127,6 +143,15 @@ Alemanha_Bundesliga,2627,19/09/2026,Stuttgart,Dortmund,0,1,0,0,5,2,1,0,1,0,0,0,0
 Alemanha_Bundesliga,2627,20/09/2026,Leverkusen,RB Leipzig,2,0,1,0,6,3,2,1,1,1,0,1,0
 Alemanha_Bundesliga,2627,20/09/2026,Schalke 04,Elversberg,0,0,0,0,1,1,0,0,0,0,0,0,0
 Alemanha_Bundesliga,2627,20/09/2026,Paderborn,Hoffenheim,3,1,2,0,5,2,4,2,1,1,1,1,1
+Alemanha_Bundesliga,2627,09/10/2026,Dortmund,Werder Bremen,2,2,0,0,9,4,4,0,1,1,1,0,1
+Alemanha_Bundesliga,2627,10/10/2026,Augsburg,Bayern Munich,2,2,1,0,5,10,4,1,1,1,1,1,1
+Alemanha_Bundesliga,2627,10/10/2026,Hoffenheim,Hamburg,2,3,1,1,4,4,5,2,1,1,1,1,1
+Alemanha_Bundesliga,2627,10/10/2026,Mainz,Leverkusen,3,4,2,2,5,7,7,4,1,1,1,1,1
+Alemanha_Bundesliga,2627,10/10/2026,Paderborn,Stuttgart,0,2,0,1,6,8,2,1,1,1,0,1,0
+Alemanha_Bundesliga,2627,10/10/2026,Union Berlin,Elversberg,1,0,0,0,6,2,1,0,1,0,0,0,0
+Alemanha_Bundesliga,2627,10/10/2026,RB Leipzig,Ein Frankfurt,6,0,4,0,10,9,6,4,1,1,1,1,0
+Alemanha_Bundesliga,2627,11/10/2026,FC Koln,M'gladbach,2,1,1,1,7,7,3,2,1,1,1,1,1
+Alemanha_Bundesliga,2627,11/10/2026,Freiburg,Schalke 04,2,1,1,1,4,1,3,2,1,1,1,1,1
 Italia_SerieA,2627,22/08/2026,Inter,Monza,4,1,1,1,5,3,5,2,1,1,1,1,1
 Italia_SerieA,2627,22/08/2026,Udinese,Como,1,1,1,0,3,6,2,1,1,1,0,1,1
 Italia_SerieA,2627,22/08/2026,Genoa,Napoli,0,2,0,0,2,4,2,0,1,1,0,0,0
@@ -177,6 +202,16 @@ Italia_SerieA,2627,20/09/2026,Frosinone,Como,2,0,2,0,6,8,2,2,1,1,0,1,0
 Italia_SerieA,2627,20/09/2026,Parma,Genoa,2,1,1,0,2,5,3,1,1,1,1,1,1
 Italia_SerieA,2627,20/09/2026,Juventus,Atalanta,2,0,1,0,5,2,2,1,1,1,0,1,0
 Italia_SerieA,2627,20/09/2026,Milan,Lecce,3,0,1,0,4,3,3,1,1,1,1,1,0
+Italia_SerieA,2627,10/10/2026,Genoa,Fiorentina,2,1,2,0,4,3,3,2,1,1,1,1,1
+Italia_SerieA,2627,10/10/2026,Inter,Parma,3,0,3,0,6,2,3,3,1,1,1,1,0
+Italia_SerieA,2627,10/10/2026,Napoli,Frosinone,3,0,2,0,8,1,3,2,1,1,1,1,0
+Italia_SerieA,2627,11/10/2026,Como,Roma,0,0,0,0,4,2,0,0,0,0,0,0,0
+Italia_SerieA,2627,11/10/2026,Lazio,Monza,3,1,2,0,7,6,4,2,1,1,1,1,1
+Italia_SerieA,2627,11/10/2026,Lecce,Bologna,1,2,0,1,5,5,3,1,1,1,1,1,1
+Italia_SerieA,2627,11/10/2026,Sassuolo,Milan,1,1,0,0,4,6,2,0,1,1,0,0,1
+Italia_SerieA,2627,11/10/2026,Cagliari,Juventus,1,1,1,0,2,10,2,1,1,1,0,1,1
+Italia_SerieA,2627,12/10/2026,Atalanta,Venezia,3,1,3,1,11,4,4,4,1,1,1,1,1
+Italia_SerieA,2627,12/10/2026,Torino,Udinese,2,1,1,1,4,1,3,2,1,1,1,1,1
 Espanha_LaLiga,2627,15/08/2026,Alaves,Getafe,3,0,0,0,8,2,3,0,1,1,1,0,0
 Espanha_LaLiga,2627,15/08/2026,Sevilla,Vallecano,2,1,0,1,4,3,3,1,1,1,1,1,1
 Espanha_LaLiga,2627,16/08/2026,Santander,Villarreal,2,2,2,2,3,7,4,4,1,1,1,1,1
@@ -246,6 +281,15 @@ Espanha_LaLiga,2627,20/09/2026,Ath Madrid,Real Madrid,2,1,0,0,9,3,3,0,1,1,1,0,1
 Espanha_LaLiga,2627,20/09/2026,La Coruna,Betis,1,1,0,1,7,4,2,1,1,1,0,1,1
 Espanha_LaLiga,2627,20/09/2026,Villarreal,Levante,3,1,1,1,7,1,4,2,1,1,1,1,1
 Espanha_LaLiga,2627,20/09/2026,Valencia,Sociedad,2,3,0,1,5,6,5,1,1,1,1,1,1
+Espanha_LaLiga,2627,09/10/2026,Malaga,Espanol,1,1,0,1,7,4,2,1,1,1,0,1,1
+Espanha_LaLiga,2627,10/10/2026,Alaves,Ath Madrid,1,2,1,1,3,7,3,2,1,1,1,1,1
+Espanha_LaLiga,2627,10/10/2026,Barcelona,Getafe,3,0,2,0,8,1,3,2,1,1,1,1,0
+Espanha_LaLiga,2627,10/10/2026,Real Madrid,Villarreal,1,0,0,0,4,4,1,0,1,0,0,0,0
+Espanha_LaLiga,2627,11/10/2026,Elche,Celta,0,0,0,0,2,0,0,0,0,0,0,0,0
+Espanha_LaLiga,2627,11/10/2026,Sociedad,La Coruna,3,2,2,0,4,7,5,2,1,1,1,1,1
+Espanha_LaLiga,2627,11/10/2026,Betis,Osasuna,5,2,2,0,7,5,7,2,1,1,1,1,1
+Espanha_LaLiga,2627,11/10/2026,Santander,Valencia,2,2,1,1,11,2,4,2,1,1,1,1,1
+Espanha_LaLiga,2627,12/10/2026,Levante,Sevilla,3,3,0,1,8,5,6,1,1,1,1,1,1
 Franca_Ligue1,2627,21/08/2026,Marseille,Strasbourg,4,0,0,0,8,2,4,0,1,1,1,0,0
 Franca_Ligue1,2627,22/08/2026,Lens,Auxerre,5,2,1,0,9,4,7,1,1,1,1,1,1
 Franca_Ligue1,2627,22/08/2026,Le Mans,Brest,2,2,1,1,5,7,4,2,1,1,1,1,1
@@ -291,6 +335,15 @@ Franca_Ligue1,2627,19/09/2026,Toulouse,Le Havre,3,2,0,0,5,7,5,0,1,1,1,0,1
 Franca_Ligue1,2627,20/09/2026,Auxerre,Brest,2,1,0,1,4,2,3,1,1,1,1,1,1
 Franca_Ligue1,2627,20/09/2026,Nice,Lille,2,1,1,0,4,8,3,1,1,1,1,1,1
 Franca_Ligue1,2627,20/09/2026,Marseille,Paris SG,1,2,0,0,4,10,3,0,1,1,1,0,1
+Franca_Ligue1,2627,09/10/2026,Lens,Lyon,2,1,1,0,7,5,3,1,1,1,1,1,1
+Franca_Ligue1,2627,10/10/2026,Lille,Le Havre,1,0,1,0,1,2,1,1,1,0,0,1,0
+Franca_Ligue1,2627,10/10/2026,Brest,Angers,5,1,4,0,9,3,6,4,1,1,1,1,1
+Franca_Ligue1,2627,10/10/2026,Lorient,Paris FC,1,0,0,0,5,3,1,0,1,0,0,0,0
+Franca_Ligue1,2627,10/10/2026,Monaco,Toulouse,2,2,2,0,4,4,4,2,1,1,1,1,1
+Franca_Ligue1,2627,10/10/2026,Paris SG,Le Mans,3,1,1,0,8,3,4,1,1,1,1,1,1
+Franca_Ligue1,2627,11/10/2026,Nice,Strasbourg,2,1,1,1,6,3,3,2,1,1,1,1,1
+Franca_Ligue1,2627,11/10/2026,Rennes,Auxerre,4,1,1,1,10,5,5,2,1,1,1,1,1
+Franca_Ligue1,2627,11/10/2026,Troyes,Marseille,0,2,0,0,3,2,2,0,1,1,0,0,0
 Holanda_Eredivisie,2627,07/08/2026,Cambuur,Excelsior,0,4,0,3,2,9,4,3,1,1,1,1,0
 Holanda_Eredivisie,2627,08/08/2026,Nijmegen,Telstar,1,2,0,2,4,3,3,2,1,1,1,1,1
 Holanda_Eredivisie,2627,08/08/2026,Go Ahead Eagles,Willem II,4,1,1,1,10,1,5,2,1,1,1,1,1
@@ -354,6 +407,15 @@ Holanda_Eredivisie,2627,20/09/2026,Feyenoord,Utrecht,5,0,3,0,12,2,5,3,1,1,1,1,0
 Holanda_Eredivisie,2627,20/09/2026,AZ Alkmaar,Telstar,1,0,1,0,8,1,1,1,1,0,0,1,0
 Holanda_Eredivisie,2627,20/09/2026,Twente,PSV Eindhoven,3,2,1,2,5,4,5,3,1,1,1,1,1
 Holanda_Eredivisie,2627,20/09/2026,Nijmegen,Go Ahead Eagles,1,1,1,1,5,6,2,2,1,1,0,1,1
+Holanda_Eredivisie,2627,09/10/2026,PSV Eindhoven,Heerenveen,2,0,1,0,2,5,2,1,1,1,0,1,0
+Holanda_Eredivisie,2627,10/10/2026,Go Ahead Eagles,Sparta Rotterdam,3,3,0,1,6,8,6,1,1,1,1,1,1
+Holanda_Eredivisie,2627,10/10/2026,Feyenoord,AZ Alkmaar,2,0,1,0,4,2,2,1,1,1,0,1,0
+Holanda_Eredivisie,2627,10/10/2026,For Sittard,Twente,1,1,1,1,5,6,2,2,1,1,0,1,1
+Holanda_Eredivisie,2627,10/10/2026,Ajax,Nijmegen,1,1,1,1,5,2,2,2,1,1,0,1,1
+Holanda_Eredivisie,2627,11/10/2026,Utrecht,Willem II,3,1,0,0,6,2,4,0,1,1,1,0,1
+Holanda_Eredivisie,2627,11/10/2026,Telstar,Den Haag,2,2,2,2,4,2,4,4,1,1,1,1,1
+Holanda_Eredivisie,2627,11/10/2026,Zwolle,Cambuur,0,1,0,0,6,4,1,0,1,0,0,0,0
+Holanda_Eredivisie,2627,11/10/2026,Excelsior,Groningen,1,5,1,2,2,9,6,3,1,1,1,1,1
 Belgica_Jupiler,2627,07/08/2026,Club Brugge,Kortrijk,3,0,1,0,8,3,3,1,1,1,1,1,0
 Belgica_Jupiler,2627,08/08/2026,Standard,Cercle Brugge,2,2,1,1,6,2,4,2,1,1,1,1,1
 Belgica_Jupiler,2627,08/08/2026,St Truiden,Lommel SK,1,1,0,1,4,2,2,1,1,1,0,1,1
@@ -417,6 +479,15 @@ Belgica_Jupiler,2627,20/09/2026,Antwerp,St. Gilloise,0,2,0,0,1,11,2,0,1,1,0,0,0
 Belgica_Jupiler,2627,20/09/2026,St Truiden,Westerlo,0,2,0,1,3,8,2,1,1,1,0,1,0
 Belgica_Jupiler,2627,20/09/2026,Club Brugge,Genk,3,0,1,0,7,2,3,1,1,1,1,1,0
 Belgica_Jupiler,2627,20/09/2026,Kortrijk,Beveren,1,0,0,0,4,1,1,0,1,0,0,0,0
+Belgica_Jupiler,2627,09/10/2026,Beveren,Lommel SK,1,3,1,1,3,7,4,2,1,1,1,1,1
+Belgica_Jupiler,2627,10/10/2026,Cercle Brugge,Anderlecht,1,2,1,0,7,6,3,1,1,1,1,1,1
+Belgica_Jupiler,2627,10/10/2026,RAAL La Louviere,Club Brugge,1,4,0,2,3,7,5,2,1,1,1,1,1
+Belgica_Jupiler,2627,10/10/2026,Genk,Kortrijk,3,0,2,0,6,1,3,2,1,1,1,1,0
+Belgica_Jupiler,2627,10/10/2026,Waregem,Gent,0,2,0,1,3,7,2,1,1,1,0,1,0
+Belgica_Jupiler,2627,11/10/2026,Standard,Charleroi,0,1,0,0,2,4,1,0,1,0,0,0,0
+Belgica_Jupiler,2627,11/10/2026,St. Gilloise,Oud-Heverlee Leuven,1,1,0,1,2,2,2,1,1,1,0,1,1
+Belgica_Jupiler,2627,11/10/2026,Westerlo,Antwerp,5,1,1,1,6,3,6,2,1,1,1,1,1
+Belgica_Jupiler,2627,11/10/2026,Mechelen,St Truiden,4,3,3,1,3,7,7,4,1,1,1,1,1
 Portugal_Primeira,2627,07/08/2026,Estoril,Famalicao,1,1,0,1,3,3,2,1,1,1,0,1,1
 Portugal_Primeira,2627,08/08/2026,Maritimo,Casa Pia,1,0,0,0,4,4,1,0,1,0,0,0,0
 Portugal_Primeira,2627,08/08/2026,Guimaraes,Arouca,0,1,0,0,3,2,1,0,1,0,0,0,0
@@ -479,6 +550,15 @@ Portugal_Primeira,2627,20/09/2026,Guimaraes,Moreirense,1,1,0,0,5,3,2,0,1,1,0,0,1
 Portugal_Primeira,2627,20/09/2026,Estoril,Casa Pia,1,2,0,0,6,3,3,0,1,1,1,0,1
 Portugal_Primeira,2627,20/09/2026,Santa Clara,Sp Braga,0,0,0,0,1,1,0,0,0,0,0,0,0
 Portugal_Primeira,2627,20/09/2026,Porto,Benfica,3,1,1,0,7,3,4,1,1,1,1,1,1
+Portugal_Primeira,2627,09/10/2026,Moreirense,Gil Vicente,0,1,0,0,2,3,1,0,1,0,0,0,0
+Portugal_Primeira,2627,09/10/2026,Sp Braga,Sp Lisbon,1,3,1,0,4,3,4,1,1,1,1,1,1
+Portugal_Primeira,2627,10/10/2026,Maritimo,Porto,1,2,1,1,4,9,3,2,1,1,1,1,1
+Portugal_Primeira,2627,10/10/2026,Academico Viseu,Estoril,2,1,1,0,6,9,3,1,1,1,1,1,1
+Portugal_Primeira,2627,10/10/2026,Casa Pia,Santa Clara,0,1,0,0,2,2,1,0,1,0,0,0,0
+Portugal_Primeira,2627,11/10/2026,Rio Ave,Nacional,3,2,1,1,7,5,5,2,1,1,1,1,1
+Portugal_Primeira,2627,11/10/2026,Benfica,Guimaraes,2,0,1,0,5,0,2,1,1,1,0,1,0
+Portugal_Primeira,2627,11/10/2026,Arouca,Estrela,1,0,1,0,3,2,1,1,1,0,0,1,0
+Portugal_Primeira,2627,12/10/2026,Famalicao,Alverca,1,4,1,1,2,5,5,2,1,1,1,1,1
 Turquia_SuperLig,2627,14/08/2026,Galatasaray,Corum,2,2,0,0,13,3,4,0,1,1,1,0,1
 Turquia_SuperLig,2627,15/08/2026,Kasimpasa,Trabzonspor,1,1,0,1,4,5,2,1,1,1,0,1,1
 Turquia_SuperLig,2627,15/08/2026,Konyaspor,Rizespor,0,1,0,0,3,5,1,0,1,0,0,0,0
@@ -533,3 +613,12 @@ Turquia_SuperLig,2627,20/09/2026,Erzurumspor,Samsunspor,1,0,1,0,2,2,1,1,1,0,0,1,
 Turquia_SuperLig,2627,20/09/2026,Fenerbahce,Eyupspor,8,0,5,0,13,6,8,5,1,1,1,1,0
 Turquia_SuperLig,2627,20/09/2026,Amedspor,Besiktas,3,2,2,0,8,8,5,2,1,1,1,1,1
 Turquia_SuperLig,2627,20/09/2026,Goztep,Rizespor,2,2,1,0,10,4,4,1,1,1,1,1,1
+Turquia_SuperLig,2627,09/10/2026,Galatasaray,Kasimpasa,3,1,1,0,11,3,4,1,1,1,1,1,1
+Turquia_SuperLig,2627,10/10/2026,Genclerbirligi,Amedspor,2,2,0,1,4,5,4,1,1,1,1,1,1
+Turquia_SuperLig,2627,10/10/2026,Alanyaspor,Erzurumspor,0,0,0,0,5,5,0,0,0,0,0,0,0
+Turquia_SuperLig,2627,10/10/2026,Samsunspor,Trabzonspor,0,3,0,3,6,8,3,3,1,1,1,1,0
+Turquia_SuperLig,2627,10/10/2026,Rizespor,Fenerbahce,0,3,0,1,5,5,3,1,1,1,1,1,0
+Turquia_SuperLig,2627,11/10/2026,Konyaspor,Buyuksehyr,0,0,0,0,3,0,0,0,0,0,0,0,0
+Turquia_SuperLig,2627,11/10/2026,Gaziantep,Corum,0,3,0,1,2,7,3,1,1,1,1,1,0
+Turquia_SuperLig,2627,11/10/2026,Besiktas,Kocaelispor,2,1,2,1,6,6,3,3,1,1,1,1,1
+Turquia_SuperLig,2627,12/10/2026,Eyupspor,Goztep,0,4,0,1,4,7,4,1,1,1,1,1,0
