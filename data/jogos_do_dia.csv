@@ -1,146 +1,21 @@
 ﻿Date,Time,Liga,HomeTeam,AwayTeam
-16/10/2026,19:30,Alemanha_Bundesliga,Ein Frankfurt,FC Koln
-17/10/2026,14:30,Alemanha_Bundesliga,Elversberg,Augsburg
-17/10/2026,14:30,Alemanha_Bundesliga,Hamburg,Stuttgart
-17/10/2026,14:30,Alemanha_Bundesliga,Schalke 04,Mainz
-17/10/2026,14:30,Alemanha_Bundesliga,Union Berlin,Dortmund
-17/10/2026,14:30,Alemanha_Bundesliga,Werder Bremen,Paderborn
-17/10/2026,17:30,Alemanha_Bundesliga,Bayern Munich,RB Leipzig
-18/10/2026,14:30,Alemanha_Bundesliga,Leverkusen,Freiburg
-18/10/2026,16:30,Alemanha_Bundesliga,M'gladbach,Hoffenheim
-17/10/2026,12:30,Inglaterra_Premier,Everton,Chelsea
-17/10/2026,15:00,Inglaterra_Premier,Brentford,Liverpool
-17/10/2026,15:00,Inglaterra_Premier,Fulham,Hull
-17/10/2026,15:00,Inglaterra_Premier,Man City,Ipswich
-17/10/2026,17:30,Inglaterra_Premier,Newcastle,Aston Villa
-18/10/2026,14:00,Inglaterra_Premier,Bournemouth,Sunderland
-18/10/2026,14:00,Inglaterra_Premier,Brighton,Crystal Palace
-18/10/2026,14:00,Inglaterra_Premier,Leeds,Man United
-18/10/2026,16:30,Inglaterra_Premier,Nott'm Forest,Arsenal
-19/10/2026,20:00,Inglaterra_Premier,Tottenham,Coventry
-16/10/2026,19:45,Franca_Ligue1,Le Mans,Toulouse
-17/10/2026,16:15,Franca_Ligue1,Strasbourg,Paris SG
-17/10/2026,19:45,Franca_Ligue1,Lille,Brest
-17/10/2026,19:45,Franca_Ligue1,Troyes,Lens
-18/10/2026,14:00,Franca_Ligue1,Angers,Marseille
-18/10/2026,16:15,Franca_Ligue1,Le Havre,Auxerre
-18/10/2026,16:15,Franca_Ligue1,Lorient,Monaco
-18/10/2026,16:15,Franca_Ligue1,Paris FC,Rennes
-18/10/2026,19:45,Franca_Ligue1,Lyon,Nice
-16/10/2026,19:45,Italia_SerieA,Frosinone,Sassuolo
-17/10/2026,14:00,Italia_SerieA,Venezia,Napoli
-17/10/2026,17:00,Italia_SerieA,Bologna,Inter
-17/10/2026,19:45,Italia_SerieA,Roma,Genoa
-18/10/2026,11:30,Italia_SerieA,Udinese,Lecce
-18/10/2026,14:00,Italia_SerieA,Fiorentina,Como
-18/10/2026,17:00,Italia_SerieA,Milan,Atalanta
-18/10/2026,19:45,Italia_SerieA,Juventus,Lazio
-19/10/2026,17:30,Italia_SerieA,Monza,Cagliari
-19/10/2026,19:45,Italia_SerieA,Parma,Torino
-16/10/2026,19:00,Holanda_Eredivisie,Heerenveen,Excelsior
-17/10/2026,15:30,Holanda_Eredivisie,Den Haag,PSV Eindhoven
-17/10/2026,19:00,Holanda_Eredivisie,Telstar,Feyenoord
-17/10/2026,20:00,Holanda_Eredivisie,Sparta Rotterdam,Willem II
-18/10/2026,11:15,Holanda_Eredivisie,Zwolle,Go Ahead Eagles
-18/10/2026,13:30,Holanda_Eredivisie,Cambuur,AZ Alkmaar
-18/10/2026,15:45,Holanda_Eredivisie,Groningen,Ajax
-18/10/2026,19:00,Holanda_Eredivisie,Nijmegen,For Sittard
-18/10/2026,19:00,Holanda_Eredivisie,Twente,Utrecht
-19/10/2026,20:15,Portugal_Primeira,Sp Braga,Gil Vicente
-17/10/2026,15:00,Escocia_Premiership,Aberdeen,St Mirren
-17/10/2026,15:00,Escocia_Premiership,Hibernian,Falkirk
-17/10/2026,15:00,Escocia_Premiership,Kilmarnock,Motherwell
-17/10/2026,15:00,Escocia_Premiership,St Johnstone,Dundee United
-17/10/2026,20:00,Escocia_Premiership,Dundee,Rangers
-18/10/2026,15:00,Escocia_Premiership,Celtic,Hearts
-16/10/2026,20:00,Espanha_LaLiga,La Coruna,Levante
-17/10/2026,13:00,Espanha_LaLiga,Espanol,Ath Madrid
-17/10/2026,15:15,Espanha_LaLiga,Villarreal,Elche
-17/10/2026,17:30,Espanha_LaLiga,Betis,Barcelona
-17/10/2026,20:00,Espanha_LaLiga,Valencia,Ath Bilbao
-18/10/2026,13:00,Espanha_LaLiga,Osasuna,Santander
-18/10/2026,15:15,Espanha_LaLiga,Celta,Alaves
-18/10/2026,17:30,Espanha_LaLiga,Malaga,Sociedad
-18/10/2026,20:00,Espanha_LaLiga,Real Madrid,Sevilla
-19/10/2026,20:00,Espanha_LaLiga,Getafe,Vallecano
-16/10/2026,18:00,Turquia_SuperLig,Corum,Rizespor
-17/10/2026,11:30,Turquia_SuperLig,Erzurumspor,Eyupspor
-17/10/2026,14:00,Turquia_SuperLig,Amedspor,Konyaspor
-17/10/2026,14:00,Turquia_SuperLig,Genclerbirligi,Galatasaray
-17/10/2026,17:00,Turquia_SuperLig,Fenerbahce,Alanyaspor
-18/10/2026,11:30,Turquia_SuperLig,Kasimpasa,Samsunspor
-18/10/2026,14:00,Turquia_SuperLig,Kocaelispor,Goztep
-18/10/2026,17:00,Turquia_SuperLig,Buyuksehyr,Gaziantep
-19/10/2026,18:00,Turquia_SuperLig,Trabzonspor,Besiktas
-16/10/2026,18:30,Austria_Bundesliga,SK Rapid,Hartberg
-17/10/2026,16:00,Austria_Bundesliga,A. Lustenau,LASK
-17/10/2026,18:30,Austria_Bundesliga,Ried,Austria Vienna
-18/10/2026,13:30,Austria_Bundesliga,Salzburg,Altach
-18/10/2026,13:30,Austria_Bundesliga,Wolfsberger AC,Tirol
-18/10/2026,16:00,Austria_Bundesliga,Sturm Graz,Grazer AK
-17/10/2026,00:00,Brasil_Serie_A,Mirassol,Internacional
-17/10/2026,22:00,Brasil_Serie_A,Botafogo RJ,Chapecoense-SC
-17/10/2026,22:30,Brasil_Serie_A,Atletico-MG,Coritiba
-17/10/2026,23:30,Brasil_Serie_A,Athletico-PR,Palmeiras
-18/10/2026,01:00,Brasil_Serie_A,Sao Paulo,Vasco
-18/10/2026,20:00,Brasil_Serie_A,Fluminense,Santos
-18/10/2026,20:00,Brasil_Serie_A,Gremio,Cruzeiro
-18/10/2026,22:30,Brasil_Serie_A,Bahia,Flamengo RJ
-18/10/2026,23:30,Brasil_Serie_A,Remo,Bragantino
-20/10/2026,00:00,Brasil_Serie_A,Corinthians,Vitoria
-16/10/2026,18:00,Dinamarca_Superliga,Horsens,Randers FC
-18/10/2026,13:00,Dinamarca_Superliga,Lyngby,Nordsjaelland
-18/10/2026,13:00,Dinamarca_Superliga,Sonderjyske,Silkeborg
-18/10/2026,15:00,Dinamarca_Superliga,Odense,Brondby
-18/10/2026,17:00,Dinamarca_Superliga,FC Copenhagen,Aarhus
-19/10/2026,18:00,Dinamarca_Superliga,Viborg,Midtjylland
-17/10/2026,05:00,Japao_JLeague,Shimizu S-Pulse,Gamba Osaka
-17/10/2026,06:00,Japao_JLeague,Chiba,Yokohama F. Marinos
-17/10/2026,06:00,Japao_JLeague,Sanfrecce Hiroshima,Kyoto
-17/10/2026,06:00,Japao_JLeague,Verdy,FC Tokyo
-17/10/2026,07:00,Japao_JLeague,Cerezo Osaka,Kawasaki Frontale
-17/10/2026,07:00,Japao_JLeague,Kashima Antlers,V-Varen Nagasaki
-17/10/2026,08:00,Japao_JLeague,Mito,Urawa Reds
-17/10/2026,11:00,Japao_JLeague,Kashiwa Reysol,Nagoya Grampus
-18/10/2026,05:55,Japao_JLeague,Okayama,Vissel Kobe
-18/10/2026,08:00,Japao_JLeague,Machida,Avispa Fukuoka
-17/10/2026,02:00,Mexico_LigaMX,Necaxa,Atlas
-17/10/2026,04:00,Mexico_LigaMX,Atlante,UNAM Pumas
-17/10/2026,04:05,Mexico_LigaMX,Club Tijuana,Puebla
-18/10/2026,00:00,Mexico_LigaMX,Santos Laguna,Queretaro
-18/10/2026,00:07,Mexico_LigaMX,Guadalajara Chivas,Tigres UANL
-18/10/2026,02:00,Mexico_LigaMX,Club Leon,Club America
-18/10/2026,02:00,Mexico_LigaMX,Toluca,Atl. San Luis
-18/10/2026,04:10,Mexico_LigaMX,Cruz Azul,Juarez
-19/10/2026,02:00,Mexico_LigaMX,Monterrey,Pachuca
-17/10/2026,13:00,Noruega_Eliteserien,HamKam,Bodo/Glimt
-17/10/2026,15:00,Noruega_Eliteserien,Kristiansund,Aalesund
-17/10/2026,17:00,Noruega_Eliteserien,Viking,Fredrikstad
-18/10/2026,13:30,Noruega_Eliteserien,Sarpsborg 08,Rosenborg
-18/10/2026,16:00,Noruega_Eliteserien,Molde,Start
-18/10/2026,16:00,Noruega_Eliteserien,Sandefjord,Lillestrom
-18/10/2026,16:00,Noruega_Eliteserien,Valerenga,Brann
-18/10/2026,18:15,Noruega_Eliteserien,Tromso,KFUM Oslo
-16/10/2026,18:00,Suecia_Allsvenskan,Brommapojkarna,Djurgarden
-17/10/2026,16:30,Suecia_Allsvenskan,AIK,Goteborg
-18/10/2026,13:00,Suecia_Allsvenskan,Sirius,Elfsborg
-18/10/2026,13:00,Suecia_Allsvenskan,Vasteras SK,Mjallby
-18/10/2026,15:30,Suecia_Allsvenskan,Halmstad,Hammarby
-18/10/2026,15:30,Suecia_Allsvenskan,Malmo FF,Hacken
-18/10/2026,15:30,Suecia_Allsvenskan,Orgryte,GAIS
-19/10/2026,18:00,Suecia_Allsvenskan,Degerfors,Kalmar
-17/10/2026,19:30,EUA_MLS,Philadelphia Union,Charlotte
-17/10/2026,21:30,EUA_MLS,Minnesota United,St. Louis City
-18/10/2026,00:30,EUA_MLS,Atlanta Utd,Inter Miami
-18/10/2026,00:30,EUA_MLS,New England Revolution,Chicago Fire
-18/10/2026,00:30,EUA_MLS,New York City,Los Angeles FC
-18/10/2026,00:30,EUA_MLS,New York Red Bulls,Toronto FC
-18/10/2026,00:30,EUA_MLS,Orlando City,DC United
-18/10/2026,01:30,EUA_MLS,Austin FC,Vancouver Whitecaps
-18/10/2026,01:30,EUA_MLS,Houston Dynamo,FC Dallas
-18/10/2026,01:30,EUA_MLS,Sporting Kansas City,Real Salt Lake
-18/10/2026,03:30,EUA_MLS,Los Angeles Galaxy,San Diego FC
-18/10/2026,03:30,EUA_MLS,Portland Timbers,Colorado Rapids
-18/10/2026,03:30,EUA_MLS,San Jose Earthquakes,Nashville SC
-18/10/2026,03:30,EUA_MLS,Seattle Sounders,CF Montreal
-18/10/2026,22:00,EUA_MLS,FC Cincinnati,Columbus Crew
+21/10/2026,15:00,Espanha_LaLiga,Levante,Ath Bilbao
+21/10/2026,11:00,Japao_JLeague,Avispa Fukuoka,Gamba Osaka
+21/10/2026,11:00,Japao_JLeague,FC Tokyo,Kashiwa Reysol
+21/10/2026,11:00,Japao_JLeague,Kawasaki Frontale,Vissel Kobe
+21/10/2026,11:00,Japao_JLeague,Kyoto,Kashima Antlers
+21/10/2026,11:00,Japao_JLeague,Nagoya Grampus,Cerezo Osaka
+21/10/2026,11:00,Japao_JLeague,Okayama,Mito
+21/10/2026,11:00,Japao_JLeague,V-Varen Nagasaki,Sanfrecce Hiroshima
+21/10/2026,11:00,Japao_JLeague,Yokohama F. Marinos,Verdy
+21/10/2026,11:30,Japao_JLeague,Urawa Reds,Chiba
+21/10/2026,01:07,Mexico_LigaMX,Guadalajara Chivas,Necaxa
+21/10/2026,02:00,Mexico_LigaMX,Atl. San Luis,Queretaro
+21/10/2026,02:00,Mexico_LigaMX,Juarez,Atlante
+21/10/2026,04:00,Mexico_LigaMX,Tigres UANL,Club Leon
+21/10/2026,02:00,Mexico_LigaMX,Atlas,Club America
+21/10/2026,02:00,Mexico_LigaMX,Puebla,Monterrey
+21/10/2026,02:00,Mexico_LigaMX,Toluca,Club Tijuana
+21/10/2026,04:00,Mexico_LigaMX,Pachuca,Cruz Azul
+21/10/2026,04:10,Mexico_LigaMX,Santos Laguna,UNAM Pumas
+21/10/2026,00:00,EUA_MLS,FC Cincinnati,DC United
