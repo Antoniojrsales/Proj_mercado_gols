@@ -183,6 +183,14 @@ Noruega_Eliteserien,2026,18/10/2026,Molde,Start,6,1,0,0,0,0,7,0,1,1,1,0,1,Norway
 Noruega_Eliteserien,2026,18/10/2026,Sandefjord,Lillestrom,0,2,0,0,0,0,2,0,1,1,0,0,0,Norway
 Noruega_Eliteserien,2026,18/10/2026,Valerenga,Brann,3,1,0,0,0,0,4,0,1,1,1,0,1,Norway
 Noruega_Eliteserien,2026,18/10/2026,Tromso,KFUM Oslo,1,1,0,0,0,0,2,0,1,1,0,0,1,Norway
+Noruega_Eliteserien,2026,24/10/2026,Bodo/Glimt,Valerenga,0,1,0,0,0,0,1,0,1,0,0,0,0,Norway
+Noruega_Eliteserien,2026,24/10/2026,HamKam,Rosenborg,0,3,0,0,0,0,3,0,1,1,1,0,0,Norway
+Noruega_Eliteserien,2026,25/10/2026,Viking,Tromso,3,1,0,0,0,0,4,0,1,1,1,0,1,Norway
+Noruega_Eliteserien,2026,25/10/2026,Kristiansund,KFUM Oslo,2,2,0,0,0,0,4,0,1,1,1,0,1,Norway
+Noruega_Eliteserien,2026,25/10/2026,Lillestrom,Brann,3,2,0,0,0,0,5,0,1,1,1,0,1,Norway
+Noruega_Eliteserien,2026,25/10/2026,Sarpsborg 08,Aalesund,2,1,0,0,0,0,3,0,1,1,1,0,1,Norway
+Noruega_Eliteserien,2026,25/10/2026,Start,Sandefjord,1,0,0,0,0,0,1,0,1,0,0,0,0,Norway
+Noruega_Eliteserien,2026,25/10/2026,Molde,Fredrikstad,5,1,0,0,0,0,6,0,1,1,1,0,1,Norway
 Suica_SuperLeague,2026/2027,25/07/2026,Lausanne,Grasshoppers,1,1,0,0,0,0,2,0,1,1,0,0,1,Switzerland
 Suica_SuperLeague,2026/2027,25/07/2026,Servette,Basel,0,1,0,0,0,0,1,0,1,0,0,0,0,Switzerland
 Suica_SuperLeague,2026/2027,25/07/2026,Luzern,Thun,1,3,0,0,0,0,4,0,1,1,1,0,1,Switzerland
@@ -243,6 +251,12 @@ Suica_SuperLeague,2026/2027,10/10/2026,Zurich,Thun,4,2,0,0,0,0,6,0,1,1,1,0,1,Swi
 Suica_SuperLeague,2026/2027,11/10/2026,Grasshoppers,Young Boys,0,2,0,0,0,0,2,0,1,1,0,0,0,Switzerland
 Suica_SuperLeague,2026/2027,11/10/2026,St. Gallen,Lausanne,1,0,0,0,0,0,1,0,1,0,0,0,0,Switzerland
 Suica_SuperLeague,2026/2027,11/10/2026,Vaduz,Basel,3,0,0,0,0,0,3,0,1,1,1,0,0,Switzerland
+Suica_SuperLeague,2026/2027,24/10/2026,Servette,Vaduz,2,1,0,0,0,0,3,0,1,1,1,0,1,Switzerland
+Suica_SuperLeague,2026/2027,24/10/2026,Zurich,Luzern,2,1,0,0,0,0,3,0,1,1,1,0,1,Switzerland
+Suica_SuperLeague,2026/2027,24/10/2026,Young Boys,St. Gallen,2,0,0,0,0,0,2,0,1,1,0,0,0,Switzerland
+Suica_SuperLeague,2026/2027,25/10/2026,Thun,Lugano,2,3,0,0,0,0,5,0,1,1,1,0,1,Switzerland
+Suica_SuperLeague,2026/2027,25/10/2026,Basel,Grasshoppers,0,0,0,0,0,0,0,0,0,0,0,0,0,Switzerland
+Suica_SuperLeague,2026/2027,25/10/2026,Sion,Lausanne,1,0,0,0,0,0,1,0,1,0,0,0,0,Switzerland
 Austria_Bundesliga,2026/2027,31/07/2026,LASK,Grazer AK,3,0,0,0,0,0,3,0,1,1,1,0,0,Austria
 Austria_Bundesliga,2026/2027,01/08/2026,Tirol,Sturm Graz,1,1,0,0,0,0,2,0,1,1,0,0,1,Austria
 Austria_Bundesliga,2026/2027,01/08/2026,Salzburg,Hartberg,1,0,0,0,0,0,1,0,1,0,0,0,0,Austria
@@ -297,6 +311,12 @@ Austria_Bundesliga,2026/2027,17/10/2026,Ried,Austria Vienna,3,2,0,0,0,0,5,0,1,1,
 Austria_Bundesliga,2026/2027,18/10/2026,Salzburg,Altach,3,0,0,0,0,0,3,0,1,1,1,0,0,Austria
 Austria_Bundesliga,2026/2027,18/10/2026,Wolfsberger AC,Tirol,0,2,0,0,0,0,2,0,1,1,0,0,0,Austria
 Austria_Bundesliga,2026/2027,18/10/2026,Sturm Graz,Grazer AK,6,1,0,0,0,0,7,0,1,1,1,0,1,Austria
+Austria_Bundesliga,2026/2027,23/10/2026,Altach,Austria Vienna,2,1,0,0,0,0,3,0,1,1,1,0,1,Austria
+Austria_Bundesliga,2026/2027,24/10/2026,Hartberg,Wolfsberger AC,1,0,0,0,0,0,1,0,1,0,0,0,0,Austria
+Austria_Bundesliga,2026/2027,24/10/2026,Tirol,Grazer AK,1,1,0,0,0,0,2,0,1,1,0,0,1,Austria
+Austria_Bundesliga,2026/2027,24/10/2026,SK Rapid,A. Lustenau,5,1,0,0,0,0,6,0,1,1,1,0,1,Austria
+Austria_Bundesliga,2026/2027,25/10/2026,Sturm Graz,Ried,2,2,0,0,0,0,4,0,1,1,1,0,1,Austria
+Austria_Bundesliga,2026/2027,25/10/2026,LASK,Salzburg,1,3,0,0,0,0,4,0,1,1,1,0,1,Austria
 Dinamarca_Superliga,2026/2027,24/07/2026,Viborg,Odense,1,0,0,0,0,0,1,0,1,0,0,0,0,Denmark
 Dinamarca_Superliga,2026/2027,25/07/2026,Aarhus,Brondby,1,1,0,0,0,0,2,0,1,1,0,0,1,Denmark
 Dinamarca_Superliga,2026/2027,26/07/2026,Sonderjyske,Midtjylland,2,3,0,0,0,0,5,0,1,1,1,0,1,Denmark
@@ -363,6 +383,12 @@ Dinamarca_Superliga,2026/2027,18/10/2026,Sonderjyske,Silkeborg,4,0,0,0,0,0,4,0,1
 Dinamarca_Superliga,2026/2027,18/10/2026,Odense,Brondby,2,1,0,0,0,0,3,0,1,1,1,0,1,Denmark
 Dinamarca_Superliga,2026/2027,18/10/2026,FC Copenhagen,Aarhus,1,1,0,0,0,0,2,0,1,1,0,0,1,Denmark
 Dinamarca_Superliga,2026/2027,19/10/2026,Viborg,Midtjylland,1,2,0,0,0,0,3,0,1,1,1,0,1,Denmark
+Dinamarca_Superliga,2026/2027,23/10/2026,Randers FC,Brondby,1,3,0,0,0,0,4,0,1,1,1,0,1,Denmark
+Dinamarca_Superliga,2026/2027,25/10/2026,Midtjylland,Lyngby,3,2,0,0,0,0,5,0,1,1,1,0,1,Denmark
+Dinamarca_Superliga,2026/2027,25/10/2026,Silkeborg,Nordsjaelland,1,1,0,0,0,0,2,0,1,1,0,0,1,Denmark
+Dinamarca_Superliga,2026/2027,25/10/2026,Horsens,Sonderjyske,5,1,0,0,0,0,6,0,1,1,1,0,1,Denmark
+Dinamarca_Superliga,2026/2027,25/10/2026,Aarhus,Viborg,2,1,0,0,0,0,3,0,1,1,1,0,1,Denmark
+Dinamarca_Superliga,2026/2027,26/10/2026,FC Copenhagen,Odense,1,1,0,0,0,0,2,0,1,1,0,0,1,Denmark
 EUA_MLS,2026,21/02/2026,St. Louis City,Charlotte,1,1,0,0,0,0,2,0,1,1,0,0,1,USA
 EUA_MLS,2026,21/02/2026,FC Cincinnati,Atlanta Utd,2,0,0,0,0,0,2,0,1,1,0,0,0,USA
 EUA_MLS,2026,22/02/2026,DC United,Philadelphia Union,1,0,0,0,0,0,1,0,1,0,0,0,0,USA
@@ -813,6 +839,22 @@ EUA_MLS,2026,18/10/2026,Portland Timbers,Colorado Rapids,0,0,0,0,0,0,0,0,0,0,0,0
 EUA_MLS,2026,18/10/2026,San Jose Earthquakes,Nashville SC,1,1,0,0,0,0,2,0,1,1,0,0,1,USA
 EUA_MLS,2026,18/10/2026,Seattle Sounders,CF Montreal,1,1,0,0,0,0,2,0,1,1,0,0,1,USA
 EUA_MLS,2026,18/10/2026,FC Cincinnati,Columbus Crew,0,2,0,0,0,0,2,0,1,1,0,0,0,USA
+EUA_MLS,2026,22/10/2026,FC Cincinnati,DC United,2,1,0,0,0,0,3,0,1,1,1,0,1,USA
+EUA_MLS,2026,24/10/2026,CF Montreal,Nashville SC,0,2,0,0,0,0,2,0,1,1,0,0,0,USA
+EUA_MLS,2026,24/10/2026,Columbus Crew,Toronto FC,4,2,0,0,0,0,6,0,1,1,1,0,1,USA
+EUA_MLS,2026,24/10/2026,New York Red Bulls,Inter Miami,2,0,0,0,0,0,2,0,1,1,0,0,0,USA
+EUA_MLS,2026,25/10/2026,Colorado Rapids,Vancouver Whitecaps,1,0,0,0,0,0,1,0,1,0,0,0,0,USA
+EUA_MLS,2026,25/10/2026,FC Dallas,San Jose Earthquakes,3,0,0,0,0,0,3,0,1,1,1,0,0,USA
+EUA_MLS,2026,25/10/2026,Houston Dynamo,Minnesota United,0,0,0,0,0,0,0,0,0,0,0,0,0,USA
+EUA_MLS,2026,25/10/2026,Real Salt Lake,St. Louis City,3,0,0,0,0,0,3,0,1,1,1,0,0,USA
+EUA_MLS,2026,25/10/2026,Sporting Kansas City,Austin FC,1,2,0,0,0,0,3,0,1,1,1,0,1,USA
+EUA_MLS,2026,25/10/2026,Portland Timbers,Charlotte,3,2,0,0,0,0,5,0,1,1,1,0,1,USA
+EUA_MLS,2026,25/10/2026,San Diego FC,Seattle Sounders,2,2,0,0,0,0,4,0,1,1,1,0,1,USA
+EUA_MLS,2026,25/10/2026,Atlanta Utd,Chicago Fire,2,3,0,0,0,0,5,0,1,1,1,0,1,USA
+EUA_MLS,2026,25/10/2026,DC United,FC Cincinnati,0,2,0,0,0,0,2,0,1,1,0,0,0,USA
+EUA_MLS,2026,25/10/2026,Orlando City,New York City,2,2,0,0,0,0,4,0,1,1,1,0,1,USA
+EUA_MLS,2026,25/10/2026,Philadelphia Union,New England Revolution,1,2,0,0,0,0,3,0,1,1,1,0,1,USA
+EUA_MLS,2026,26/10/2026,Los Angeles FC,Los Angeles Galaxy,2,2,0,0,0,0,4,0,1,1,1,0,1,USA
 Suecia_Allsvenskan,2026,04/04/2026,Degerfors,Sirius,0,3,0,0,0,0,3,0,1,1,1,0,0,Sweden
 Suecia_Allsvenskan,2026,04/04/2026,Hammarby,Mjallby,3,0,0,0,0,0,3,0,1,1,1,0,0,Sweden
 Suecia_Allsvenskan,2026,05/04/2026,AIK,Halmstad,2,1,0,0,0,0,3,0,1,1,1,0,1,Sweden
@@ -1005,6 +1047,14 @@ Suecia_Allsvenskan,2026,18/10/2026,Halmstad,Hammarby,0,1,0,0,0,0,1,0,1,0,0,0,0,S
 Suecia_Allsvenskan,2026,18/10/2026,Malmo FF,Hacken,0,1,0,0,0,0,1,0,1,0,0,0,0,Sweden
 Suecia_Allsvenskan,2026,18/10/2026,Orgryte,GAIS,4,2,0,0,0,0,6,0,1,1,1,0,1,Sweden
 Suecia_Allsvenskan,2026,19/10/2026,Degerfors,Kalmar,1,2,0,0,0,0,3,0,1,1,1,0,1,Sweden
+Suecia_Allsvenskan,2026,23/10/2026,Elfsborg,Malmo FF,0,0,0,0,0,0,0,0,0,0,0,0,0,Sweden
+Suecia_Allsvenskan,2026,23/10/2026,Vasteras SK,Halmstad,1,2,0,0,0,0,3,0,1,1,1,0,1,Sweden
+Suecia_Allsvenskan,2026,24/10/2026,Hacken,Degerfors,4,0,0,0,0,0,4,0,1,1,1,0,0,Sweden
+Suecia_Allsvenskan,2026,24/10/2026,Sirius,AIK,1,2,0,0,0,0,3,0,1,1,1,0,1,Sweden
+Suecia_Allsvenskan,2026,24/10/2026,Djurgarden,Orgryte,2,2,0,0,0,0,4,0,1,1,1,0,1,Sweden
+Suecia_Allsvenskan,2026,24/10/2026,Kalmar,Brommapojkarna,0,3,0,0,0,0,3,0,1,1,1,0,0,Sweden
+Suecia_Allsvenskan,2026,25/10/2026,GAIS,Goteborg,1,1,0,0,0,0,2,0,1,1,0,0,1,Sweden
+Suecia_Allsvenskan,2026,25/10/2026,Mjallby,Hammarby,0,2,0,0,0,0,2,0,1,1,0,0,0,Sweden
 Brasil_Serie_A,2026,28/01/2026,Atletico-MG,Palmeiras,2,2,0,0,0,0,4,0,1,1,1,0,1,Brazil
 Brasil_Serie_A,2026,28/01/2026,Coritiba,Bragantino,0,1,0,0,0,0,1,0,1,0,0,0,0,Brazil
 Brasil_Serie_A,2026,28/01/2026,Internacional,Athletico-PR,0,1,0,0,0,0,1,0,1,0,0,0,0,Brazil
@@ -1314,6 +1364,16 @@ Brasil_Serie_A,2026,18/10/2026,Gremio,Cruzeiro,2,4,0,0,0,0,6,0,1,1,1,0,1,Brazil
 Brasil_Serie_A,2026,18/10/2026,Bahia,Flamengo RJ,0,3,0,0,0,0,3,0,1,1,1,0,0,Brazil
 Brasil_Serie_A,2026,18/10/2026,Remo,Bragantino,1,1,0,0,0,0,2,0,1,1,0,0,1,Brazil
 Brasil_Serie_A,2026,20/10/2026,Corinthians,Vitoria,1,1,0,0,0,0,2,0,1,1,0,0,1,Brazil
+Brasil_Serie_A,2026,23/10/2026,Cruzeiro,Remo,1,0,0,0,0,0,1,0,1,0,0,0,0,Brazil
+Brasil_Serie_A,2026,24/10/2026,Internacional,Botafogo RJ,3,0,0,0,0,0,3,0,1,1,1,0,0,Brazil
+Brasil_Serie_A,2026,24/10/2026,Mirassol,Sao Paulo,1,1,0,0,0,0,2,0,1,1,0,0,1,Brazil
+Brasil_Serie_A,2026,24/10/2026,Vitoria,Athletico-PR,1,1,0,0,0,0,2,0,1,1,0,0,1,Brazil
+Brasil_Serie_A,2026,24/10/2026,Palmeiras,Bragantino,2,0,0,0,0,0,2,0,1,1,0,0,0,Brazil
+Brasil_Serie_A,2026,24/10/2026,Vasco,Corinthians,3,2,0,0,0,0,5,0,1,1,1,0,1,Brazil
+Brasil_Serie_A,2026,24/10/2026,Chapecoense-SC,Fluminense,2,1,0,0,0,0,3,0,1,1,1,0,1,Brazil
+Brasil_Serie_A,2026,25/10/2026,Santos,Bahia,1,1,0,0,0,0,2,0,1,1,0,0,1,Brazil
+Brasil_Serie_A,2026,26/10/2026,Coritiba,Gremio,0,1,0,0,0,0,1,0,1,0,0,0,0,Brazil
+Brasil_Serie_A,2026,26/10/2026,Flamengo RJ,Atletico-MG,3,2,0,0,0,0,5,0,1,1,1,0,1,Brazil
 Mexico_LigaMX,2026/2027,17/07/2026,Necaxa,Atlante,2,1,0,0,0,0,3,0,1,1,1,0,1,Mexico
 Mexico_LigaMX,2026/2027,17/07/2026,Club Tijuana,Tigres UANL,3,1,0,0,0,0,4,0,1,1,1,0,1,Mexico
 Mexico_LigaMX,2026/2027,18/07/2026,Atl. San Luis,Cruz Azul,2,3,0,0,0,0,5,0,1,1,1,0,1,Mexico
@@ -1420,6 +1480,24 @@ Mexico_LigaMX,2026/2027,18/10/2026,Club Leon,Club America,3,5,0,0,0,0,8,0,1,1,1,
 Mexico_LigaMX,2026/2027,18/10/2026,Toluca,Atl. San Luis,1,1,0,0,0,0,2,0,1,1,0,0,1,Mexico
 Mexico_LigaMX,2026/2027,18/10/2026,Cruz Azul,Juarez,5,0,0,0,0,0,5,0,1,1,1,0,0,Mexico
 Mexico_LigaMX,2026/2027,19/10/2026,Monterrey,Pachuca,2,1,0,0,0,0,3,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,21/10/2026,Guadalajara Chivas,Necaxa,1,0,0,0,0,0,1,0,1,0,0,0,0,Mexico
+Mexico_LigaMX,2026/2027,21/10/2026,Atl. San Luis,Queretaro,2,1,0,0,0,0,3,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,21/10/2026,Juarez,Atlante,0,1,0,0,0,0,1,0,1,0,0,0,0,Mexico
+Mexico_LigaMX,2026/2027,21/10/2026,Tigres UANL,Club Leon,0,2,0,0,0,0,2,0,1,1,0,0,0,Mexico
+Mexico_LigaMX,2026/2027,22/10/2026,Atlas,Club America,2,5,0,0,0,0,7,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,22/10/2026,Puebla,Monterrey,1,4,0,0,0,0,5,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,22/10/2026,Toluca,Club Tijuana,2,2,0,0,0,0,4,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,22/10/2026,Pachuca,Cruz Azul,1,2,0,0,0,0,3,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,22/10/2026,Santos Laguna,UNAM Pumas,2,0,0,0,0,0,2,0,1,1,0,0,0,Mexico
+Mexico_LigaMX,2026/2027,24/10/2026,Necaxa,Juarez,1,1,0,0,0,0,2,0,1,1,0,0,1,Mexico
+Mexico_LigaMX,2026/2027,24/10/2026,Atlante,Atl. San Luis,0,1,0,0,0,0,1,0,1,0,0,0,0,Mexico
+Mexico_LigaMX,2026/2027,25/10/2026,Monterrey,Guadalajara Chivas,0,1,0,0,0,0,1,0,1,0,0,0,0,Mexico
+Mexico_LigaMX,2026/2027,25/10/2026,UNAM Pumas,Tigres UANL,1,1,0,0,0,0,2,0,1,1,0,0,1,Mexico
+Mexico_LigaMX,2026/2027,25/10/2026,Atlas,Puebla,4,3,0,0,0,0,7,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,25/10/2026,Club Leon,Toluca,1,1,0,0,0,0,2,0,1,1,0,0,1,Mexico
+Mexico_LigaMX,2026/2027,26/10/2026,Queretaro,Cruz Azul,1,3,0,0,0,0,4,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,26/10/2026,Club America,Pachuca,1,2,0,0,0,0,3,0,1,1,1,0,1,Mexico
+Mexico_LigaMX,2026/2027,26/10/2026,Club Tijuana,Santos Laguna,4,1,0,0,0,0,5,0,1,1,1,0,1,Mexico
 Japao_JLeague,2026/2027,07/08/2026,Yokohama F. Marinos,Kashima Antlers,3,4,0,0,0,0,7,0,1,1,1,0,1,Japan
 Japao_JLeague,2026/2027,07/08/2026,Gamba Osaka,Urawa Reds,4,3,0,0,0,0,7,0,1,1,1,0,1,Japan
 Japao_JLeague,2026/2027,08/08/2026,Avispa Fukuoka,Vissel Kobe,0,1,0,0,0,0,1,0,1,0,0,0,0,Japan
@@ -1520,3 +1598,23 @@ Japao_JLeague,2026/2027,17/10/2026,Mito,Urawa Reds,0,1,0,0,0,0,1,0,1,0,0,0,0,Jap
 Japao_JLeague,2026/2027,17/10/2026,Kashiwa Reysol,Nagoya Grampus,1,3,0,0,0,0,4,0,1,1,1,0,1,Japan
 Japao_JLeague,2026/2027,18/10/2026,Okayama,Vissel Kobe,0,3,0,0,0,0,3,0,1,1,1,0,0,Japan
 Japao_JLeague,2026/2027,18/10/2026,Machida,Avispa Fukuoka,3,0,0,0,0,0,3,0,1,1,1,0,0,Japan
+Japao_JLeague,2026/2027,21/10/2026,Avispa Fukuoka,Gamba Osaka,1,2,0,0,0,0,3,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,21/10/2026,FC Tokyo,Kashiwa Reysol,0,0,0,0,0,0,0,0,0,0,0,0,0,Japan
+Japao_JLeague,2026/2027,21/10/2026,Kawasaki Frontale,Vissel Kobe,2,1,0,0,0,0,3,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,21/10/2026,Kyoto,Kashima Antlers,2,2,0,0,0,0,4,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,21/10/2026,Nagoya Grampus,Cerezo Osaka,1,1,0,0,0,0,2,0,1,1,0,0,1,Japan
+Japao_JLeague,2026/2027,21/10/2026,Okayama,Mito,2,0,0,0,0,0,2,0,1,1,0,0,0,Japan
+Japao_JLeague,2026/2027,21/10/2026,Shimizu S-Pulse,Machida,0,5,0,0,0,0,5,0,1,1,1,0,0,Japan
+Japao_JLeague,2026/2027,21/10/2026,V-Varen Nagasaki,Sanfrecce Hiroshima,4,0,0,0,0,0,4,0,1,1,1,0,0,Japan
+Japao_JLeague,2026/2027,21/10/2026,Yokohama F. Marinos,Verdy,2,2,0,0,0,0,4,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,21/10/2026,Urawa Reds,Chiba,3,2,0,0,0,0,5,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,24/10/2026,Sanfrecce Hiroshima,Shimizu S-Pulse,4,0,0,0,0,0,4,0,1,1,1,0,0,Japan
+Japao_JLeague,2026/2027,24/10/2026,Kashima Antlers,Kashiwa Reysol,2,3,0,0,0,0,5,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,24/10/2026,Verdy,Avispa Fukuoka,3,1,0,0,0,0,4,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,24/10/2026,Vissel Kobe,Machida,0,0,0,0,0,0,0,0,0,0,0,0,0,Japan
+Japao_JLeague,2026/2027,24/10/2026,Gamba Osaka,Kyoto,2,2,0,0,0,0,4,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,25/10/2026,Nagoya Grampus,Yokohama F. Marinos,1,1,0,0,0,0,2,0,1,1,0,0,1,Japan
+Japao_JLeague,2026/2027,25/10/2026,Cerezo Osaka,Chiba,2,2,0,0,0,0,4,0,1,1,1,0,1,Japan
+Japao_JLeague,2026/2027,25/10/2026,Urawa Reds,V-Varen Nagasaki,1,0,0,0,0,0,1,0,1,0,0,0,0,Japan
+Japao_JLeague,2026/2027,25/10/2026,FC Tokyo,Mito,6,0,0,0,0,0,6,0,1,1,1,0,0,Japan
+Japao_JLeague,2026/2027,25/10/2026,Kawasaki Frontale,Okayama,2,1,0,0,0,0,3,0,1,1,1,0,1,Japan
