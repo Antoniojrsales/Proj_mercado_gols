@@ -1,16 +1,160 @@
 ﻿Date,Time,Liga,HomeTeam,AwayTeam
+06/11/2026,19:45,Belgica_Jupiler,Standard,Beveren
+07/11/2026,15:00,Belgica_Jupiler,Westerlo,Charleroi
+07/11/2026,17:15,Belgica_Jupiler,Oud-Heverlee Leuven,Mechelen
+07/11/2026,19:45,Belgica_Jupiler,Antwerp,Lommel SK
+07/11/2026,19:45,Belgica_Jupiler,RAAL La Louviere,Cercle Brugge
+08/11/2026,12:30,Belgica_Jupiler,Club Brugge,Anderlecht
+08/11/2026,15:00,Belgica_Jupiler,Gent,Kortrijk
+08/11/2026,17:30,Belgica_Jupiler,St. Gilloise,Genk
+08/11/2026,18:15,Belgica_Jupiler,St Truiden,Waregem
+06/11/2026,19:30,Alemanha_Bundesliga,Hamburg,M'gladbach
+07/11/2026,14:30,Alemanha_Bundesliga,Dortmund,Elversberg
+07/11/2026,14:30,Alemanha_Bundesliga,Mainz,Bayern Munich
+07/11/2026,14:30,Alemanha_Bundesliga,Paderborn,Ein Frankfurt
+07/11/2026,14:30,Alemanha_Bundesliga,RB Leipzig,Augsburg
+07/11/2026,17:30,Alemanha_Bundesliga,Stuttgart,Werder Bremen
+08/11/2026,14:30,Alemanha_Bundesliga,FC Koln,Leverkusen
+08/11/2026,16:30,Alemanha_Bundesliga,Freiburg,Union Berlin
+08/11/2026,18:30,Alemanha_Bundesliga,Hoffenheim,Schalke 04
+06/11/2026,20:00,Inglaterra_Premier,Everton,Coventry
+07/11/2026,12:30,Inglaterra_Premier,Leeds,Tottenham
+07/11/2026,15:00,Inglaterra_Premier,Arsenal,Hull
+07/11/2026,15:00,Inglaterra_Premier,Fulham,Newcastle
+07/11/2026,17:30,Inglaterra_Premier,Nott'm Forest,Man City
+08/11/2026,14:00,Inglaterra_Premier,Brighton,Brentford
+08/11/2026,14:00,Inglaterra_Premier,Crystal Palace,Liverpool
+08/11/2026,14:00,Inglaterra_Premier,Ipswich,Bournemouth
+08/11/2026,14:00,Inglaterra_Premier,Sunderland,Chelsea
+08/11/2026,16:30,Inglaterra_Premier,Man United,Aston Villa
+06/11/2026,19:45,Franca_Ligue1,Toulouse,Strasbourg
+07/11/2026,18:00,Franca_Ligue1,Auxerre,Paris FC
+07/11/2026,20:05,Franca_Ligue1,Paris SG,Troyes
+08/11/2026,14:00,Franca_Ligue1,Rennes,Lille
+08/11/2026,16:15,Franca_Ligue1,Angers,Nice
+08/11/2026,16:15,Franca_Ligue1,Brest,Lyon
+08/11/2026,16:15,Franca_Ligue1,Le Havre,Lorient
+08/11/2026,16:15,Franca_Ligue1,Le Mans,Monaco
+08/11/2026,19:45,Franca_Ligue1,Lens,Marseille
+06/11/2026,19:45,Italia_SerieA,Venezia,Udinese
+07/11/2026,14:00,Italia_SerieA,Cagliari,Frosinone
+07/11/2026,14:00,Italia_SerieA,Torino,Lecce
+07/11/2026,17:00,Italia_SerieA,Parma,Bologna
+07/11/2026,19:45,Italia_SerieA,Roma,Sassuolo
+08/11/2026,11:30,Italia_SerieA,Napoli,Lazio
+08/11/2026,14:00,Italia_SerieA,Genoa,Milan
+08/11/2026,14:00,Italia_SerieA,Monza,Atalanta
+08/11/2026,17:00,Italia_SerieA,Inter,Como
+08/11/2026,19:45,Italia_SerieA,Fiorentina,Juventus
+06/11/2026,19:00,Holanda_Eredivisie,Willem II,Zwolle
+07/11/2026,15:30,Holanda_Eredivisie,For Sittard,Telstar
+07/11/2026,17:45,Holanda_Eredivisie,Den Haag,Sparta Rotterdam
+07/11/2026,20:00,Holanda_Eredivisie,Excelsior,Go Ahead Eagles
+08/11/2026,11:15,Holanda_Eredivisie,Heerenveen,Feyenoord
+08/11/2026,13:30,Holanda_Eredivisie,Twente,Ajax
+08/11/2026,15:45,Holanda_Eredivisie,AZ Alkmaar,Groningen
+08/11/2026,15:45,Holanda_Eredivisie,Cambuur,PSV Eindhoven
+08/11/2026,19:00,Holanda_Eredivisie,Utrecht,Nijmegen
+06/11/2026,20:45,Portugal_Primeira,Famalicao,Arouca
+07/11/2026,15:30,Portugal_Primeira,Nacional,Academico Viseu
+07/11/2026,18:00,Portugal_Primeira,Alverca,Casa Pia
+07/11/2026,20:30,Portugal_Primeira,Sp Lisbon,Moreirense
+08/11/2026,15:30,Portugal_Primeira,Estoril,Maritimo
+08/11/2026,15:30,Portugal_Primeira,Santa Clara,Gil Vicente
+08/11/2026,18:00,Portugal_Primeira,Guimaraes,Porto
+08/11/2026,20:30,Portugal_Primeira,Estrela,Benfica
+08/11/2026,20:30,Portugal_Primeira,Rio Ave,Sp Braga
+07/11/2026,15:00,Escocia_Premiership,Dundee United,Motherwell
+07/11/2026,15:00,Escocia_Premiership,St Johnstone,Dundee
+07/11/2026,17:45,Escocia_Premiership,Aberdeen,Hibernian
+07/11/2026,20:00,Escocia_Premiership,St Mirren,Rangers
+08/11/2026,15:00,Escocia_Premiership,Hearts,Falkirk
+08/11/2026,16:00,Escocia_Premiership,Celtic,Kilmarnock
+06/11/2026,20:00,Espanha_LaLiga,Sevilla,Alaves
+07/11/2026,13:00,Espanha_LaLiga,Malaga,Santander
+07/11/2026,15:15,Espanha_LaLiga,Espanol,La Coruna
+07/11/2026,17:30,Espanha_LaLiga,Osasuna,Ath Bilbao
+07/11/2026,20:00,Espanha_LaLiga,Valencia,Real Madrid
+08/11/2026,13:00,Espanha_LaLiga,Elche,Betis
+08/11/2026,15:15,Espanha_LaLiga,Sociedad,Vallecano
+08/11/2026,17:30,Espanha_LaLiga,Celta,Levante
+08/11/2026,17:30,Espanha_LaLiga,Villarreal,Getafe
+08/11/2026,20:00,Espanha_LaLiga,Ath Madrid,Barcelona
+06/11/2026,17:00,Turquia_SuperLig,Gaziantep,Kasimpasa
+07/11/2026,10:30,Turquia_SuperLig,Eyupspor,Kocaelispor
+07/11/2026,13:00,Turquia_SuperLig,Samsunspor,Konyaspor
+07/11/2026,16:00,Turquia_SuperLig,Galatasaray,Amedspor
+07/11/2026,16:00,Turquia_SuperLig,Goztep,Buyuksehyr
+08/11/2026,10:30,Turquia_SuperLig,Rizespor,Erzurumspor
+08/11/2026,13:00,Turquia_SuperLig,Corum,Fenerbahce
+08/11/2026,15:30,Turquia_SuperLig,Alanyaspor,Trabzonspor
+08/11/2026,18:00,Turquia_SuperLig,Besiktas,Genclerbirligi
+06/11/2026,18:30,Austria_Bundesliga,SK Rapid,Wolfsberger AC
+07/11/2026,16:00,Austria_Bundesliga,A. Lustenau,Grazer AK
+07/11/2026,18:30,Austria_Bundesliga,Ried,LASK
+08/11/2026,13:30,Austria_Bundesliga,Hartberg,Altach
+08/11/2026,13:30,Austria_Bundesliga,Tirol,Austria Vienna
+08/11/2026,16:00,Austria_Bundesliga,Sturm Graz,Salzburg
 06/11/2026,23:00,Brasil_Serie_A,Vitoria,Fluminense
-06/11/2026,23:00,Espanha_LaLiga,Sevilla,Alaves
-06/11/2026,23:00,Franca_Ligue1,Toulouse,Strasbourg
-06/11/2026,23:00,Inglaterra_Premier,Everton,Coventry
-06/11/2026,23:00,Italia_SerieA,Venezia,Udinese
-06/11/2026,23:00,Alemanha_Bundesliga,Hamburg,M'gladbach
-06/11/2026,23:00,Austria_Bundesliga,SK Rapid,Wolfsberger AC
-06/11/2026,23:00,Belgica_Jupiler,Standard,Beveren
-06/11/2026,23:00,Dinamarca_Superliga,Silkeborg,Lyngby
-06/11/2026,23:00,Mexico_LigaMX,Atl. San Luis,Juarez
-06/11/2026,23:00,Mexico_LigaMX,Necaxa,Club Tijuana
-06/11/2026,23:00,Holanda_Eredivisie,Willem II,Zwolle
-06/11/2026,23:00,Portugal_Primeira,Famalicao,Arouca
-06/11/2026,23:00,Suecia_Allsvenskan,Hammarby,Elfsborg
-06/11/2026,23:00,Turquia_SuperLig,Gaziantep,Kasimpasa
+06/11/2026,18:00,Dinamarca_Superliga,Silkeborg,Lyngby
+07/11/2026,17:00,Dinamarca_Superliga,Odense,Viborg
+08/11/2026,11:00,Dinamarca_Superliga,FC Copenhagen,Brondby
+08/11/2026,13:00,Dinamarca_Superliga,Aarhus,Horsens
+08/11/2026,15:00,Dinamarca_Superliga,Randers FC,Nordsjaelland
+08/11/2026,17:00,Dinamarca_Superliga,Midtjylland,Sonderjyske
+07/11/2026,04:00,Japao_JLeague,Shimizu S-Pulse,Verdy
+07/11/2026,05:00,Japao_JLeague,Nagoya Grampus,Kyoto
+07/11/2026,05:00,Japao_JLeague,Yokohama F. Marinos,Okayama
+07/11/2026,06:00,Japao_JLeague,Avispa Fukuoka,V-Varen Nagasaki
+07/11/2026,06:00,Japao_JLeague,FC Tokyo,Kashima Antlers
+07/11/2026,07:00,Japao_JLeague,Kashiwa Reysol,Kawasaki Frontale
+08/11/2026,05:00,Japao_JLeague,Machida,Sanfrecce Hiroshima
+08/11/2026,05:00,Japao_JLeague,Vissel Kobe,Urawa Reds
+08/11/2026,06:00,Japao_JLeague,Gamba Osaka,Cerezo Osaka
+08/11/2026,08:00,Japao_JLeague,Chiba,Mito
+07/11/2026,01:00,Mexico_LigaMX,Atl. San Luis,Juarez
+07/11/2026,01:00,Mexico_LigaMX,Necaxa,Club Tijuana
+07/11/2026,03:00,Mexico_LigaMX,Atlante,Santos Laguna
+07/11/2026,23:00,Mexico_LigaMX,Atlas,Pachuca
+08/11/2026,01:00,Mexico_LigaMX,Tigres UANL,Cruz Azul
+08/11/2026,01:00,Mexico_LigaMX,Toluca,Monterrey
+08/11/2026,03:10,Mexico_LigaMX,UNAM Pumas,Club America
+09/11/2026,00:00,Mexico_LigaMX,Queretaro,Puebla
+09/11/2026,02:10,Mexico_LigaMX,Club Leon,Guadalajara Chivas
+07/11/2026,15:00,Noruega_Eliteserien,Kristiansund,Valerenga
+07/11/2026,17:00,Noruega_Eliteserien,Rosenborg,Start
+08/11/2026,13:30,Noruega_Eliteserien,Tromso,Bodo/Glimt
+08/11/2026,16:00,Noruega_Eliteserien,HamKam,Sarpsborg 08
+08/11/2026,16:00,Noruega_Eliteserien,Lillestrom,Aalesund
+08/11/2026,16:00,Noruega_Eliteserien,Sandefjord,Molde
+08/11/2026,16:00,Noruega_Eliteserien,Viking,KFUM Oslo
+08/11/2026,18:15,Noruega_Eliteserien,Fredrikstad,Brann
+06/11/2026,18:00,Suecia_Allsvenskan,Hammarby,Elfsborg
+07/11/2026,16:30,Suecia_Allsvenskan,Degerfors,GAIS
+07/11/2026,16:30,Suecia_Allsvenskan,Orgryte,Vasteras SK
+08/11/2026,13:00,Suecia_Allsvenskan,Goteborg,Malmo FF
+08/11/2026,13:00,Suecia_Allsvenskan,Halmstad,Djurgarden
+08/11/2026,15:30,Suecia_Allsvenskan,AIK,Hacken
+08/11/2026,15:30,Suecia_Allsvenskan,Brommapojkarna,Mjallby
+08/11/2026,15:30,Suecia_Allsvenskan,Kalmar,Sirius
+07/11/2026,17:00,Suica_SuperLeague,Luzern,Young Boys
+07/11/2026,17:00,Suica_SuperLeague,Vaduz,Sion
+07/11/2026,19:30,Suica_SuperLeague,Grasshoppers,Lausanne
+08/11/2026,13:00,Suica_SuperLeague,St. Gallen,Lugano
+08/11/2026,15:30,Suica_SuperLeague,Servette,Zurich
+08/11/2026,15:30,Suica_SuperLeague,Thun,Basel
+07/11/2026,21:00,EUA_MLS,CF Montreal,Vancouver Whitecaps
+07/11/2026,21:00,EUA_MLS,Chicago Fire,Columbus Crew
+07/11/2026,21:00,EUA_MLS,DC United,New York City
+07/11/2026,21:00,EUA_MLS,FC Cincinnati,Nashville SC
+07/11/2026,21:00,EUA_MLS,Inter Miami,Charlotte
+07/11/2026,21:00,EUA_MLS,New York Red Bulls,Atlanta Utd
+07/11/2026,21:00,EUA_MLS,Orlando City,New England Revolution
+07/11/2026,21:00,EUA_MLS,Philadelphia Union,Toronto FC
+08/11/2026,00:00,EUA_MLS,Austin FC,Portland Timbers
+08/11/2026,00:00,EUA_MLS,FC Dallas,Colorado Rapids
+08/11/2026,00:00,EUA_MLS,Houston Dynamo,St. Louis City
+08/11/2026,00:00,EUA_MLS,Minnesota United,San Jose Earthquakes
+08/11/2026,00:00,EUA_MLS,Real Salt Lake,Los Angeles Galaxy
+08/11/2026,00:00,EUA_MLS,San Diego FC,Sporting Kansas City
+08/11/2026,00:00,EUA_MLS,Seattle Sounders,Los Angeles FC
